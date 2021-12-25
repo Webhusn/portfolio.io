@@ -457,6 +457,7 @@ p {
 #contact .contact-items {
 	/* max-width: 400px; */
 	width: 100%;
+	border-radius:50%;
 }
 #contact .contact-item {
 	width: 80%;
